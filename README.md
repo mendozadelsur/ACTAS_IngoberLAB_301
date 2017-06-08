@@ -1,2 +1,5 @@
-# ACTAS_IngoberLAB_301
-Un repositorio para publicar las actas de forma transparente. ACTAS de las asambleas que tienen lugar en el HackLAB cada martes  a las 19:30.
+# ACTAS IngoberLAB 301
+
+En este repositorio se van a publicar las actas de las asambleas del IngoberLAB
+de forma transparente. Las asambleas tienen lugar en el HackLAB cada martes a
+las 19:30.
